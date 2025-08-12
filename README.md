@@ -23,4 +23,4 @@ A simple and customizable password generator built in Python.
 1. Clone/download the script.  
 2. Run in terminal:  
    ```sh
-   python password_generator.py
+   python password_generator_by_nido.py
